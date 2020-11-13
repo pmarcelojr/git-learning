@@ -1,3 +1,3 @@
 # git-learning
 
-my project test git
+my project test
